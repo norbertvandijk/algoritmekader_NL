@@ -1,57 +1,138 @@
 ---
 title: Bouwblokken
 summary: Hier staat een korte samenvatting over dit onderwerp
+icon: material/cube
+hide:
+    - toc
+    - navigation
 ---
 
-Bij het algoritmekader hebben we 10 bouwblokken gedefinieerd. Deze bouwblokken geven structuur aan het algoritmekader. 
+<div class="grid cards" markdown>
 
-### :fontawesome-solid-square-check: [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+-   ### [Fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
 
-- [audit]( ../bouwblokken/conformiteitsbeoordeling/audit.md)
+    ---
 
-- [toezicht]( ../bouwblokken/conformiteitsbeoordeling/toezicht.md)
+    ![fundamentele-rechten](../afbeeldingen/iconen/fundamentele-rechten.png)
+    
+    ---
 
---- 
+    Het bouwblok fundamentele rechten is opgesplitst in verschillende delen
 
-### :fontawesome-solid-database: [Data](../bouwblokken/data/index.md)
+    [:octicons-arrow-right-24: Naar fundamentele rechten](../bouwblokken/fundamentele-rechten/index.md)
 
-- [data kwaliteit](../bouwblokken/data/data%20kwaliteit.md)
+    [:octicons-arrow-right-24: Naar bias en non-discriminatie](../bouwblokken/fundamentele-rechten/non-discriminatie.md)
 
-- [data governance](../bouwblokken/data/data%20governance.md)
+-   ### [Publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
+    
+    ---
+  
+    ![publieke-inkoop](../afbeeldingen/iconen/inkoop.png)
+    
+    ---
 
----
+    Op deze pagina vind je relevante informatie wanneer je als overheidsorganisatie algoritmes of AI wilt inkopen. 
 
-### :fontawesome-solid-leaf: [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    [:octicons-arrow-right-24: Naar publieke inkoop](../bouwblokken/publieke-inkoop/index.md)
 
---- 
+-   ### [Privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
-### :material-scale-balance: [Fundamentele rechten](../bouwblokken/fundamentele%20rechten/index.md)
+    ---
 
-- [non-discriminatie](../bouwblokken/fundamentele%20rechten/non-discriminatie.md)
+    ![privacy-en-gegevensbescherming](../afbeeldingen/iconen/privacy-en-gegevensbescherming.png)
+    
+    ---
 
----
+    Op deze pagina vind je relevante informatie over privacy en gegevensbescherming die van belang is wanneer je gebruik maakt van algoritmes of AI. 
 
-### :fontawesome-solid-building-columns: [Governance](../bouwblokken/governance/index.md)
+    [:octicons-arrow-right-24: Naar privacy en gegevensbescherming](../bouwblokken/privacy-en-gegevensbescherming/index.md)
 
----
+-   ### [Transparantie](../bouwblokken/transparantie/index.md)
+    
+    ---
 
-### :fontawesome-solid-cart-shopping: [Inkoop](../bouwblokken/inkoop/index.md)
+    ![transparantie](../afbeeldingen/iconen/transparantie.png)
 
----
+    ---
 
-### :fontawesome-solid-person-circle-check: [Menselijke controle](../bouwblokken/menselijke%20controle/index.md)
+    Op deze pagina vind je de relevantie informatie over transparantie die van belang is wanneer je gebruik maakt van algoritmes of AI.
 
----
+    [:octicons-arrow-right-24: Naar transparantie](../bouwblokken/transparantie/index.md)
 
-### :fontawesome-solid-lock: [Privacy en gegevensbescherming](../bouwblokken/privacy%20en%20gegevensbescherming/index.md)
+-   ### [Conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+    
+    ---
 
----
+    ![conformiteitsbeoordeling](../afbeeldingen/iconen/conformiteitsbeoordeling.png)
 
-### :fontawesome-solid-gear: [Technische robuustheid en veiligheid](../bouwblokken/technische%20robuustheid%20en%20veiligheid/index.md)
+    ---
 
----
+    Hier kunnen we een korte tekst kwijt over conformiteitsbeoordeling
 
-### :fontawesome-solid-magnifying-glass: [Transparantie](../bouwblokken/transparantie/index.md)
+    [:octicons-arrow-right-24: Naar conformiteitsbeoordeling](../bouwblokken/conformiteitsbeoordeling/index.md)
+
+-   ### [Data](../bouwblokken/data/index.md)
+    
+    ---
+
+    ![data](../afbeeldingen/iconen/data.png)
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over data
+
+    [:octicons-arrow-right-24: Naar data](../bouwblokken/data/index.md)
+
+-   ### [Duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+    
+    ---
+
+    ![duurzaamheid](../afbeeldingen/iconen/duurzaamheid.png)
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over duurzaamheid
+
+    [:octicons-arrow-right-24: Naar duurzaamheid](../bouwblokken/duurzaamheid/index.md)
+
+-   ### [Governance](../bouwblokken/governance/index.md)
+    
+    ---
+
+    ![governance](../afbeeldingen/iconen/governance.png)
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over governance
+
+    [:octicons-arrow-right-24: Naar governance](../bouwblokken/governance/index.md)
+
+-   ### [Menselijke controle](../bouwblokken/menselijke-controle/index.md)
+    
+    ---
+
+    ![menselijke-controle](../afbeeldingen/iconen/menselijke-controle.png)
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over menselijke controle
+
+    [:octicons-arrow-right-24: Naar menselijke controle](../bouwblokken/menselijke-controle/index.md)
+
+-   ### [Technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+    
+    ---
+
+    ![technische-robuustheid-en-veiligheid](../afbeeldingen/iconen/technische-robuustheid-en-veiligheid.png)
+
+    ---
+
+    Hier kunnen we een korte tekst kwijt over technische robuustheid en veiligheid
+
+    [:octicons-arrow-right-24: Naar technische robuustheid en veiligheid](../bouwblokken/technische-robuustheid-en-veiligheid/index.md)
+
+</div>
+
 
 !!! info "Disclaimer"
 
